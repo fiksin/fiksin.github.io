@@ -7,9 +7,7 @@
     <h2>welcome to julia's page</h2>
 
     <p>
-      wheeeeee making a page !! time 2 experiment
-
-      wheeeeeee
+      hi! this is my website... still in progress!
     </p>
 
   </Layout>

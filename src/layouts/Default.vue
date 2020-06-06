@@ -2,7 +2,8 @@
   <div class="layout">
     <header class="header">
       <strong>
-        <g-link style="color:black; text-decoration: none" to="/">{{ $static.metadata.siteName }}</g-link>
+        <g-link style="color:black; text-decoration: none" to="/">julia fiksinski</g-link>
+        <!-- <g-link style="color:black; text-decoration: none" to="/">{{ $static.metadata.siteName }}</g-link> -->
       </strong>
       <Navigation />
     </header>

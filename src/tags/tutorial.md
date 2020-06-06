@@ -1,7 +1,0 @@
----
-
-id: tutorial
-
-color: red
-
----

@@ -1,7 +1,0 @@
----
-
-id: vue
-
-color: green
-
----

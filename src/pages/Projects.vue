@@ -1,14 +1,14 @@
 <template>
   <Layout>
     <h3 class="font-extrabold text-xl">projects</h3>
-    <p class="py-2">things i am currently working on:
+    <p class="py-2">current work:
     	<ul class="list-disc list-inside">
     	   <li><g-link class="links" to="/projectlist/spotify-lately">spotify lately</g-link>, a personal project exploring my listening habits and history (Python)</li>
             <li>a software engineering internship @ Apple, Apple Music Team, summer 2020</li>
         </ul>
     </p>
 
-    <p class="py-2">things i have worked on at internships or at research labs:
+    <p class="py-2">previous internships/research:
     	<ul class="list-disc list-inside">
     		<li>hardware integration with Logic Pro X (Objective-C, C++) @ Apple, Music Apps Team, summer 2019</li>
             
@@ -23,7 +23,7 @@
     	</ul>
     </p>
 
-    <p class="py-2">things i have worked on for classes:
+    <p class="py-2">coursework:
         <ul class="list-disc list-inside">
             <li><g-link class="links" to="/projectlist/subreddits">examining subreddit connectivity and sentiment</g-link> (Python), 18.065 (Matrix Methods in Data Analysis, Signal Processing, and Machine Learning)
 
@@ -37,7 +37,7 @@
         </ul>
     </p>
 
-    <p class="py-2">things i have worked on in my free time:
+    <p class="py-2">side projects:
         <ul class="list-disc list-inside">
             <li>scripts to create show priority orders for meetings of the WMBR programming board (Python), fall 2018-fall 2019</li>
 
@@ -45,7 +45,7 @@
         </ul>        
     </p>
 
-    <p class="py-2">things i plan to work on:
+    <p class="py-2">future work:
         <ul class="list-disc list-inside">
             <li>refactoring and expanding <g-link class="links" to="/projectlist/spotify-lately">spotify lately</g-link> (Python)</li>
         </ul>

@@ -61,10 +61,3 @@
       }
     }
 </script>
-
-<style>
-    .links {
-        color: #900c3f;
-        font-style: italic;
-    }
-</style>
